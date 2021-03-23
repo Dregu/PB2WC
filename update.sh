@@ -12,4 +12,3 @@ cat weeklyChallenges.json | jq -r '.[]|[.week,.payload,.preview]|@tsv' | while I
     wget $i -O $f
   fi
 done
-cat weeklyChallenges.json | jq > weeklyChallenges.json
