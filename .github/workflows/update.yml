@@ -17,6 +17,8 @@ jobs:
       run: |
         chmod +x update.sh
         ./update.sh
+        chmod +x generate.sh
+        ./generate.sh > README.md
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
