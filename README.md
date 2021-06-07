@@ -79,3 +79,5 @@
 [![Week 39](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0039.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0039.layout)
 ## Week 40
 [![Week 40](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0040.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0040.layout)
+## Week 41
+[![Week 41](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0041.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0041.layout)
