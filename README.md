@@ -97,3 +97,5 @@
 [![Week 48](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0048.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0048.layout)
 ## Week 49
 [![Week 49](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0049.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0049.layout)
+## Week 50
+[![Week 50](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0050.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0050.layout)
