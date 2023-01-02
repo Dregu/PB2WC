@@ -243,3 +243,5 @@
 [![Week 121](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0121.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0121.layout)
 ## Week 122
 [![Week 122](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0122.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0122.layout)
+## Week 123
+[![Week 123](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0123.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0123.layout)
