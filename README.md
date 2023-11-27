@@ -337,3 +337,5 @@
 [![Week 168](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0168.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0168.layout)
 ## Week 169
 [![Week 169](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0169.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0169.layout)
+## Week 170
+[![Week 170](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0170.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0170.layout)
