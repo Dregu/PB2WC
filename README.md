@@ -349,3 +349,5 @@
 [![Week 174](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0174.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0174.layout)
 ## Week 175
 [![Week 175](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0175.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0175.layout)
+## Week 176
+[![Week 176](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0176.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0176.layout)
