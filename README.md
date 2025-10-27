@@ -537,3 +537,5 @@
 [![Week 268](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0268.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0268.layout)
 ## Week 269
 [![Week 269](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0269.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0269.layout)
+## Week 270
+[![Week 270](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0270.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0270.layout)
