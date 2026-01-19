@@ -561,3 +561,5 @@
 [![Week 280](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0280.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0280.layout)
 ## Week 281
 [![Week 281](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0281.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0281.layout)
+## Week 282
+[![Week 282](https://raw.githubusercontent.com/Dregu/PB2WC/master/images/w0282.png)](https://raw.githubusercontent.com/Dregu/PB2WC/master/layouts/w0282.layout)
